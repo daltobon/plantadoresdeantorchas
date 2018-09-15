@@ -2,6 +2,6 @@
 
 * WEB SITE para Ministerio Plantadores de Antorchas del Reino de Dios
 
-* www.plantadoresdeantochas.org
+* www.plantadoresdeantorchas.org
 
 * Daniel Tobón
